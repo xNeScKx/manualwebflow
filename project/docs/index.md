@@ -9,7 +9,4 @@ hero:
     - theme: brand
       text: Manual
       link: /queeswebflow
-    - theme: alt
-      text: 
-      link: https://github.com/vuejs/vitepress
 ---
