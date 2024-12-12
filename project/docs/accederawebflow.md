@@ -12,8 +12,10 @@ Para comenzar, es importante tener acceso a la plataforma de Webflow y al proyec
 2. **Conoce tu  Dashboard Agente de Transformación Digital:**
 
    * Al ingresar, encontrarás el **Dashboard**, donde podrás ver el proyecto “Gobierno del Estado de Morelos”. (Enterprise site)
-   ![](img/01.jpg )
-   
+   ***
+   <iframe width="560" height="315" src="video/01.mp4" frameborder="0" allowfullscreen></iframe>
+
+ 
    * Haz clic en el nombre del proyecto para acceder al **Editor**, la herramienta principal que utilizarás.
 
 ---
