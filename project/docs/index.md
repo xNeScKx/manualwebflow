@@ -7,6 +7,6 @@ hero:
   tagline: 
   actions:
     - theme: brand
-      text: Manual
+      text: Entrar
       link: /introduccion
 ---
