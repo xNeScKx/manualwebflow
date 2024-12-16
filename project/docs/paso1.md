@@ -13,7 +13,7 @@ Para comenzar, es importante tener acceso a la plataforma de Webflow y al proyec
    
    * Haz clic en el nombre del proyecto para acceder al **Editor**, la herramienta principal que utilizarás.
    ***
-   <iframe width="560" height="315" src="video/01.mp4" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="01.mp4" frameborder="0" allowfullscreen></iframe>
 
  
    
