@@ -1,6 +1,15 @@
-### Nueva tecgnologia ATD ### 
+### Nueva tecnología ATD ### 
 
-La nueva tecnología implementada por la Agencia de Transformación Digital de la mano con Webflow se creó para un fin, crear nuevas y novedosas paginas web con una nueva tecnologia de arrastrar componentes de una manera fácil y sencilla para la creación de su sitio web.  
-Con esta nueva tecnología se plantea crear nuevas páginas web de una manera más rapida y sencilla sin necesidad de escribir código.
+La nueva tecnología implementada por la Agencia de Transformación Digital, en colaboración con Webflow, se desarrolló con un objetivo claro: facilitar la creación de páginas web modernas y novedosas mediante una interfaz intuitiva de arrastrar y soltar componentes, como encabezados, bloques de texto, imágenes y secciones predefinidas.
 
-video
+Con esta herramienta, se propone simplificar y agilizar el desarrollo de sitios web, permitiendo su creación de manera eficiente, sin necesidad de escribir código.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
+    <iframe 
+        src="video/00.mp4" 
+        frameborder="0" 
+        allowfullscreen 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+      </iframe>
+   </div>
+
