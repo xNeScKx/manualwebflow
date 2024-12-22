@@ -2,7 +2,7 @@
 ## Selección de templetes
 
 1. En la barra de navegación principal, localiza y selecciona la pestaña **Páginas**.
-2. Desplázate hacia abajo hasta encontrar la sección denominada **Plantillas de Páginas Estáticas** (*Static Page Templates*). 
+2. Desplázate hacia abajo hasta encontrar la sección denominada **Plantillas de Páginas Estáticas** (**Static Page Templates**). 
 3. Aquí encontrarás templetes ya prediseñados con componentes base que deben incluir tus páginas, por ejemplo:
    - Templete de página de inicio.
    - Templete de página de convocatorias.
@@ -53,7 +53,15 @@
    
 * **Title Tag:** Escribe el mismo nombre de la página. Esto ayuda para que en los resultados de búsqueda aparezca más fácilmente.
    
-* **Meta Descripción:** Ingresa una descripción general que englobe el contenido de tu página. **Este campo es de suma importancia para que tu página aparezca en los resultados de búsqueda relevantes.**
+* **Meta Description:** Ingresa una descripción general que englobe el contenido de tu página. **Este campo es de suma importancia para que tu página aparezca en los resultados de búsqueda relevantes.**
+
+> **Nota:** Una meta description es un texto que aparece debajo de un enlace en la página de resultados de un buscador, que describe el contenido de la página. Su objetivo es que los usuarios puedan elegir el sitio web correcto sin necesidad de hacer clic en el enlace y navegar por la página.![](img/11.png)
+Ejemplos de Meta Descripción para las páginas web:  
+**Página Noticias:** “Mantente informado con las últimas noticias del Gobierno de Morelos. Entérate de eventos, proyectos y actividades relevantes para la ciudadanía.”  
+**Página Acerca De:** “Conoce más sobre nosotros: nuestra misión, visión, valores y el equipo detrás de (Nombre de la Secretaría). Descubre cómo trabajamos para ofrecerte lo mejor.”  
+**Página de Tramites y Servicios:** “Accede a una amplia variedad de trámites y servicios en línea del Gobierno de Morelos. Facilita tus gestiones de manera rápida y segura desde el portal oficial.”
+
+* **Sitemap Indexing:** Asegúrate de que esta opción esté activada **una vez que termines de crear tu nueva página**.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
     <iframe 

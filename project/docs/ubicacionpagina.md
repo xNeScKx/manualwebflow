@@ -2,11 +2,11 @@
 
 Una vez creada nuestra página basada en el templete, procedemos a ubicar la página que creamos para editarla:
 
-1. Nos desplazándose hacia arriba, encontraremos la sección denominada "Static Pages" dentro de la pestaña "Paginas".
+1. Nos desplazándose hacia arriba, encontraremos la sección denominada **"Static Pages"** dentro de la pestaña **"Paginas"**.
 
 2. Identificaremos la Carpeta de nuestra Secretaría
 
-   > **Nota:** Actualmente se pueden visualizar todas las páginas, hay que tener prudencia al momento de elegir la página a editar para no cometer el error de editar páginas que no son de nuestra dependencia.
+   > **Nota:** Actualmente se pueden visualizar todas las páginas. Es crucial tener prudencia al seleccionar una página para evitar errores al editar. Es importante tener prudencia al elegir la página a editar, para evitar el error de modificar páginas que no corresponden a nuestra dependencia.
 
 3. Una vez localizada la carpeta de nuestra secretaría, verificamos que la página creada previamente ya se encuentre dentro de nuestra carpeta.
 
@@ -25,7 +25,7 @@ Para editar el contenido de la página, seguiremos los pasos siguientes:
 
 1. **Creación de una Rama:**
    - Elegimos la página que deseamos editar.
-   - Localizamos el símbolo con una flecha hacia la derecha ("Create page branch").
+   - Localizamos el símbolo con una flecha hacia la derecha (**"Create page branch"**).
    - Damos clic en este símbolo para crear una rama, lo que nos permitirá editar el contenido de la página sin modificar el diseño original.
 
    > **Nota:** Este método es útil para evitar daños al diseño original de la página y permite realizar ediciones sin preocupaciones.
@@ -53,10 +53,10 @@ Para editar el contenido de la página, seguiremos los pasos siguientes:
      
  **Identificar y usar componentes:**
 
-   * Cada componente se encuentra etiquetado y organizado dentro de la pestaña "componentes".  
-   * Podrás encontrar una gran variedad de componentes ya creados en la carpeta de "componentes compartidos" que se adaptarán perfectamente a tu página y hay diseño preestablecido que están organizados por carpetas de las secretarías como el **Hero y Footer**.  
+   * Cada componente se encuentra etiquetado y organizado dentro de la pestaña **"componentes"**.  
+   * Podrás encontrar una gran variedad de componentes ya creados en la carpeta de **"componentes compartidos"** que se adaptarán perfectamente a tu página y hay diseño preestablecido que están organizados por carpetas de las secretarías como el **Hero y Footer**.  
    * Para editar, simplemente selecciona el componente y modifica el contenido de acuerdo con las instrucciones de la sección **Editor de contenido (Componente)**.
-   - Podremos eliminar, editar, mover componentes o agregar nuevos componentes desde la pestaña "Componentes", según sea necesario.
+   * Podremos eliminar, editar, mover componentes o agregar nuevos componentes desde la pestaña **"Componentes"**, según sea necesario.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
     <iframe 
@@ -67,11 +67,11 @@ Para editar el contenido de la página, seguiremos los pasos siguientes:
       </iframe>
    </div>
 
-## Actualización y Revisión de la Branch
+## Actualización y Revisión de la Branch para la publicación del Sitio Web
 
 #### Paso 1: Actualización de la Branch
 Una vez editada la página y agregados los componentes deseados:
-   - Selecciona en el menú desplegable de la **Branch** (color naranja) con el nombre de la página que estás editando.
+   - Selecciona en el menú desplegable de la **Branch (color naranja)** con el nombre de la página que estás editando.
    - Haz clic en la opción **Check for Updates**.
    - Aparecerá una ventana emergente:
      - Si existen actualizaciones disponibles, selecciona **Pull Update**.
@@ -87,7 +87,7 @@ Una vez editada la página y agregados los componentes deseados:
    </div>
 
 #### Paso 2: Previsualización de tu página web 
-Antes de proceder al siguiente paso es importante previsualizar tu página web, presionas la opción "Visualizar (Preview)", podrás ver una versión preliminar de tu página en tiempo real. Esta función te permite observar cómo quedará tu página con los componentes que has elegido, tal como si ya estuviera publicada.
+Antes de proceder al siguiente paso es importante previsualizar tu página web, presionas la opción **"Visualizar (Preview)"**, podrás ver una versión preliminar de tu página en tiempo real. Esta función te permite observar cómo quedará tu página con los componentes que has elegido, tal como si ya estuviera publicada.
 
 Esto te ayudará para realizar ajustes antes de **Solicitar la revisión**. De esta manera, nos aseguramos de que todos los elementos están en su lugar y que el diseño se vea tal como lo planeaste, asegurando una excelente experiencia de usuario una vez que la página esté en línea.
 
@@ -102,13 +102,14 @@ Esto te ayudará para realizar ajustes antes de **Solicitar la revisión**. De e
 
 #### Paso 3: Solicitud de Revisión
 Una vez que se haya revisado la página, procederemos a fusionar la rama con el diseño original, seguiremos los siguientes pasos:
-1. Actualizar la Branch:
+1. Selecciona en el menú desplegable de la **Branch (color naranja)** con el nombre de la página que estás editando.
+2. Actualiza la Branch:
    - Accede al menú desplegable y selecciona la opción **Request Review**.
    - Se mostrará una ventana emergente.
-2. En el campo **Required Reviewers**:
+3. En el campo **Required Reviewers**:
    - Selecciona a la **Agencia de Transformación Digital**.
    - Redacta un mensaje explicando los cambios realizados.
-3. Una vez completado el mensaje:
+4. Una vez completado el mensaje:
    - Haz clic en **Send Request** para enviar la Branch a revisión.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
@@ -120,10 +121,7 @@ Una vez que se haya revisado la página, procederemos a fusionar la rama con el 
       </iframe>
    </div>
 
-#### Paso 4: Proceso de Revisión
-- La Agencia de Transformación Digital revisará los cambios realizados:
-   - Si los cambios son aprobados, se procederá con la publicación.
-   > **Nota:** Las publicaciones de los sitios están a cargo de la Agencia de Transformación Digital  
+   > **Nota:** Las publicaciones de los sitios están a cargo de la Agencia de Transformación Digital.  
 
    - Si los cambios **NO** son aprobados, recibirás un informe detallando los errores detectados (diseño, sintaxis u otros).
-   - Corrige los errores señalados y vuelve al **Paso 3**, esto se hace para garantizar la calidad del contenido y evitar errores futuros.
+   - Corrige los errores señalados y vuelve al **Paso 3: Solicitud de Revisió**, esto se hace para garantizar la calidad del contenido y evitar errores futuros.

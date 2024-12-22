@@ -4,12 +4,17 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'Manual de Creacion de Pagina Web',
-  description: 'Manual de Creación de Pagina Web',
+  title: 'Manual de Creación de Página Web',
+  description: 'Manual de Creación de Página Web',
+  
+    
+ 
+  
 
 
 
   themeConfig: {
+    logo: 'img/logo.png', // Aquí agregas la ruta de tu logo
     //nav: [
     //{ text: 'Example', link: '/example' },
     //{ text: 'Seccion 1', link: '/seccion1' },
