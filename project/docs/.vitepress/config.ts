@@ -7,12 +7,6 @@ export default defineConfig({
   title: 'Manual de Creación de Página Web',
   description: 'Manual de Creación de Página Web',
   
-    
- 
-  
-
-
-
   themeConfig: {
     logo: 'img/logo.png', // Aquí agregas la ruta de tu logo
     //nav: [

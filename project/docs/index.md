@@ -8,14 +8,21 @@ hero:
   tagline: 
   actions:
     - theme: brand
-      text: Manual
+      text: Entra
       link: /introduccion
+
 ---
-<!-- <div class="custom-hero">
-  <img src="/img/logo2.png" alt="Logo" class="hero-logo" />
-  <div class="hero-buttons">
-      <a href="#" class="button primary">Comenzar</a>
-      <a href="#" class="button secondary">GitHub</a>
-    </div>
+<!---
+ <link rel="stylesheet" href=".vitepress/theme/index.css">
+<div class="custom-hero">
+  <div class="hero-content">
+    <h1 class="hero-title" style="font-size: 4rem; line-height: 70px; color: rgb(115, 120, 94);">Agencia de Transformación Digital</h1>
+    <h1 class="hero-subtitle">Manual Creación de Página Web</h1>
+    <button class="hero-button" onclick="location.href='/introduccion.html'">Manual</button>
+  </div>
+  <img src="/img/logo.png" alt="Logo" class="hero-logo">
 </div>
--->
+--->
+
+
+
