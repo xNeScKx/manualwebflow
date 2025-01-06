@@ -7,95 +7,21 @@
   --vp-c-brand-light: #d0d4ff; /* Color claro de la marca */
   --vp-c-brand-dark: #444bff; /* Color oscuro de la marca */
 }
-/*
-.custom-hero {
-  padding: 50px;
-  text-align: left;
-  position: relative;
+.vp-sidebar {
+  max-width: 250px; /* Cambia el ancho según lo necesites */
+  word-wrap: break-word; /* Permite que las palabras largas se ajusten */
 }
 
-.hero-content {
-  max-width: 500px;
+/* Evitar que el título se desborde */
+.vp-sidebar .title {
+  overflow: hidden; /* Oculta el texto que sobresale */
+  text-overflow: ellipsis; /* Agrega puntos suspensivos al texto que sobresale */
+  white-space: nowrap; /* Evita que el texto se envuelva */
 }
 
-.hero-title {
-  font-size: 4rem;
-  margin: 0;
-  color: rgb(115, 120, 94);
-  line-height: 70px;
+/* Alternativa: Permitir múltiples líneas en el título */
+.vp-sidebar .title {
+  white-space: normal; /* Permite que el texto se envuelva */
+  line-height: 1.4; /* Ajusta la altura de línea */
+  word-wrap: break-word; /* Rompe palabras largas */
 }
-
-.hero-subtitle {
-  font-size: 3rem;
-  margin: 10px 0;
-  color: #B8986F;
-  line-height: 50px;
-}
-
-.hero-button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #73785E;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 20px;
-  margin-top: 10px;
-}
-
-.hero-logo {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  width: 300px;
-  height: auto;
-}
-
-
-@media (max-width: 768px) {
-  .custom-hero {
-    padding: 30px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .hero-content {
-    max-width: 100%;
-    order: 2;
-  }
-
-  .hero-title {
-    font-size: 3rem;
-    line-height: 50px;
-  }
-
-  .hero-subtitle {
-    font-size: 2rem;
-    line-height: 40px;
-  }
-
-  .hero-logo {
-    position: static;
-    width: 200px;
-    margin: 20px auto 0;
-    order: 1;
-  }
-}
-
-@media (max-width: 480px) {
-  .hero-title {
-    font-size: 2rem;
-    line-height: 40px;
-  }
-
-  .hero-subtitle {
-    font-size: 1.5rem;
-    line-height: 30px;
-  }
-
-  .hero-button {
-    padding: 8px 16px;
-    font-size: 0.9rem;
-  }
-}*/

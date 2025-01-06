@@ -2,17 +2,17 @@
 
 Los CMS de WebFlow permite gestionar el contenido como noticias, convocatorias, programas de una forma dinámica, esto hace que al llenar los campos automáticamente se muestran los datos en el componente correspondiente al igual que la información  de la Landín page que le corresponde al registro.
 
-## Pasos para crear un nuevo registro en el CMS:
+## Pasos para crear un nuevo registro en el CMS (Convocatoria, Programa):
 
    * Haz clic en **Colecciones CMS** desde el Editor.
 
    ![](img/05.jpg)
        
-   * Selecciona la colección correspondiente (por ejemplo: SEC-CONTRALORIA-XXX).
+   * Selecciona la colección correspondiente (por ejemplo: SEC-CONVOCATORIAS).
    
    > **Nota:** “Actualmente se pueden visualizar todos los CMS, hay que tener prudencia al momento de elegir el CMS para no cometer el error de crear un registro en un CMS que no es de nuestra dependencia”
 
-   * Haz clic en el en el botón azul "New SEC-XXX-XXX" para crear un nuevo registro para ese CMS.
+   * Haz clic en el en el botón azul "New SEC-CONVOCATORIAS" para crear una nueva convocatoria para ese CMS.
    
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
     <iframe 
@@ -59,6 +59,10 @@ Es de suma importancia que esta parte del CMS este llenado ya que va de la mano 
 >**Nota:** “En caso de ser necesario”
 
 * **Call to action** Adjunta un breve texto llamativo para no perder la vista de las personas.
+> **Nota:** Ejemplos de Call to action:  
+**Descargar gratis.** 
+**Regístrate hoy mismo.** 
+**Contáctanos.**
 
 * **Imagen PDF** Aquí es importante adjuntar una foto que haga referencia al PDF.
 >**Nota:** "La imagen debe tener medidas de (800x800px) y debe estar relacionada con el PDF, ya que desde esta imagen se desplegará dicho documento."
@@ -66,6 +70,18 @@ Es de suma importancia que esta parte del CMS este llenado ya que va de la mano 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
     <iframe 
         src="video/18.mp4" 
+        frameborder="0" 
+        allowfullscreen 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+      </iframe>
+   </div>
+
+* **Dependencia a la que pertenece esta Convocatoria o Programa** Es de suma importancia que seleccionemos en el apartado “Dependencia que pertenece esta convocatoria o programa”, seleccionaremos nuestra dependencia.
+>**Nota:** Es crucial tener prudencia al seleccionar la dependencia, ya que se muestran todas las dependencias. Si seleccionas una dependencia incorrecta, nuestra convocatoria no será visible.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
+    <iframe 
+        src="video/25.mp4" 
         frameborder="0" 
         allowfullscreen 
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
@@ -84,7 +100,7 @@ Es de suma importancia que esta parte del CMS este llenado ya que va de la mano 
 
    ![](img/05.jpg) 
        
-   * Selecciona la colección que desees corregir un registro (por ejemplo: SEC-CONTRALORIA-XXX).
+   * Selecciona la colección que desees corregir un registro (por ejemplo: SEC-CONVOCATORIA).
    
    > **Nota:** “Actualmente se pueden visualizar todos los CMS, hay que tener prudencia al momento de elegir el CMS a editar para no cometer el error de editar CMS que no son de nuestra dependencia”
 

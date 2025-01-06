@@ -6,6 +6,10 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Manual de Creación de Página Web',
   description: 'Manual de Creación de Página Web',
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/img/logo.png' }]
+  ],
+ 
   
   themeConfig: {
     logo: 'img/logo.png', // Aquí agregas la ruta de tu logo
